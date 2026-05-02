@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Afkar Mosh Mertaaha |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-mosh-mertaaha/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عتمة الليل سحرك ينادي
+> أفكار مش مرتاحة تسكن فؤادي
+> شوقي يزيد ونارك بدمي
+> في حضنك ننسى عذابي وهمي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
