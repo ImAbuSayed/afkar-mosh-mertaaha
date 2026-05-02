@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عتمة الليل سحرك ينادي
+> أفكار مش مرتاحة تسكن فؤادي
+> شوقي يزيد ونارك بدمي
+> في حضنك ننسى عذابي وهمي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
